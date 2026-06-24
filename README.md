@@ -15,9 +15,5 @@ The implementation explicitly utilizes the core Scikit-Learn API:
 3. **Predict:** Apply the underlying predictive logic to generate unseen verification matrices.
 
 ## Local Setup & Execution
-
-1. Clone this project repository:
-   ```bash
-   git clone [https://github.com/YOUR_GITHUB_USERNAME/data-classification-ai.git](https://github.com/YOUR_GITHUB_USERNAME/data-classification-ai.git)
    pip install -r requirements.txt
    python main.py
